@@ -1,0 +1,10 @@
+print("                                 10 de marzo 2025")
+print("                                 santiago , chile")
+print("querida anais                                    ")
+
+print("   quisas no te deves de acorardad de esto pero bueno")
+print("   si lees esto es probable que estes viva ")
+print("   pero sigues tus sueños de salir a delante ")
+print("   probamete te  sientas miserables")
+print("   y quisas mas adelante estes trabando en esto de ser programadora")
+print("   y siempre recuerda en el mundo de hipocritas los sinceros somos los malos🩷  ") 
